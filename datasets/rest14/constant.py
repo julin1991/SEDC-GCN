@@ -1,0 +1,1 @@
+{'pos': {'[PAD]': 0, '[UNK]': 1, 'PROPN': 2, 'ADJ': 3, 'PART': 4, 'SYM': 5, 'AUX': 6, 'DET': 7, 'INTJ': 8, 'ADV': 9, 'VERB': 10, 'SPACE': 11, 'NOUN': 12, 'CCONJ': 13, 'NUM': 14, 'X': 15, 'SCONJ': 16, 'PUNCT': 17, 'PRON': 18, 'ADP': 19}}

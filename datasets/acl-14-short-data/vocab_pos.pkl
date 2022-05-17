@@ -1,0 +1,23 @@
+special_token_size	2
+token_size	17
+singleton_size	17
+singleton_max_count	1
+0	*PAD*	1
+1	*UNK*	1
+2	PRON	1
+3	X	1
+4	PUNCT	1
+5	AUX	1
+6	DET	1
+7	ADJ	1
+8	PART	1
+9	ADP	1
+10	INTJ	1
+11	ADV	1
+12	SCONJ	1
+13	PROPN	1
+14	NUM	1
+15	CCONJ	1
+16	NOUN	1
+17	VERB	1
+18	SYM	1

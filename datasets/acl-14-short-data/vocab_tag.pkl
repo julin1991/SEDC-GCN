@@ -1,0 +1,52 @@
+special_token_size	0
+token_size	48
+singleton_size	48
+singleton_max_count	1
+0	RBR	1
+1	,	1
+2	ADD	1
+3	RBS	1
+4	NN	1
+5	FW	1
+6	CD	1
+7	PDT	1
+8	CC	1
+9	PRP	1
+10	NFP	1
+11	WP	1
+12	IN	1
+13	SYM	1
+14	JJR	1
+15	NNP	1
+16	RP	1
+17	``	1
+18	.	1
+19	MD	1
+20	VB	1
+21	POS	1
+22	$	1
+23	XX	1
+24	NNPS	1
+25	TO	1
+26	:	1
+27	VBN	1
+28	WDT	1
+29	UH	1
+30	PRP$	1
+31	LS	1
+32	NNS	1
+33	DT	1
+34	VBP	1
+35	''	1
+36	RB	1
+37	VBZ	1
+38	VBG	1
+39	WP$	1
+40	HYPH	1
+41	JJS	1
+42	EX	1
+43	WRB	1
+44	JJ	1
+45	-LRB-	1
+46	VBD	1
+47	-RRB-	1

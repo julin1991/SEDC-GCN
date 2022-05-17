@@ -1,0 +1,48 @@
+special_token_size	0
+token_size	44
+singleton_size	44
+singleton_max_count	1
+0	advcl	1
+1	det	1
+2	acomp	1
+3	oprd	1
+4	csubj	1
+5	advmod	1
+6	intj	1
+7	appos	1
+8	xcomp	1
+9	relcl	1
+10	parataxis	1
+11	amod	1
+12	aux	1
+13	ROOT	1
+14	expl	1
+15	prt	1
+16	dep	1
+17	quantmod	1
+18	acl	1
+19	pcomp	1
+20	nummod	1
+21	preconj	1
+22	npadvmod	1
+23	dobj	1
+24	cc	1
+25	nmod	1
+26	conj	1
+27	nsubj	1
+28	agent	1
+29	mark	1
+30	compound	1
+31	case	1
+32	predet	1
+33	prep	1
+34	pobj	1
+35	meta	1
+36	poss	1
+37	attr	1
+38	nsubjpass	1
+39	neg	1
+40	ccomp	1
+41	dative	1
+42	punct	1
+43	auxpass	1
