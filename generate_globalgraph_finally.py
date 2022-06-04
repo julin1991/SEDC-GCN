@@ -4,7 +4,7 @@
 # @Mail: bin.liang@stu.hit.edu.cn
 # ------------------
 
-#生成inter_graph图
+#生成global_graph图
 import numpy as np
 import spacy
 import pickle
